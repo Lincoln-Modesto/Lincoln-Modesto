@@ -1,5 +1,7 @@
-Hi! 👋 i'm Lincoln Modesto
+Olá 👋 sou o Lincoln
 
-I'm a civil engineer and started my programming journey in 2020 with Java and Android native development, since then, in 2021 I started studying mobile development with React-native
+Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi o aplicativo móvel (Java + Android nativo) Reescore Lajes registrado junto ao INPI, que é um software voltado a sanar problemas de dimensionamento e projeto das estruturas provisórias de escoramento de lajes maciças e treliçadas.
 
-🚀 I’m currently learning: JavaScript, React JS and React Native
+A partir daí, me apaixonei por tecnologia e programação, e venho estudando e fazendo pequenos projetos desde 2020. 
+
+🚀 Atualmente estou estudando: JavaScript, React JS e React Native, mas também tenho me aventurado em desenvolver aplicações completas, com back-end em node js, e banco de dados com MongoDB e Postgress.
