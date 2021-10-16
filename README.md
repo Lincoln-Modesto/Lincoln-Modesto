@@ -6,5 +6,5 @@ A partir daí, me apaixonei por tecnologia e programação, e venho estudando e 
 
 🚀 Atualmente estou estudando: JavaScript, React JS e React Native, mas também tenho me aventurado em desenvolver aplicações completas, com back-end em node js, e banco de dados com MongoDB e Postgress.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lincoln-Modesto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lincoln-Modesto&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
