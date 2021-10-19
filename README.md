@@ -11,7 +11,7 @@ A partir daí, me apaixonei por tecnologia e programação, e venho estudando e 
 
 ##
 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row">
   <a src="https://github.com/Lincoln-Modesto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Modesto&count_private=true&theme=midnight-purple&include_all_commits&show_icons=true"/>
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Modesto&layout=compact&theme=midnight-purple"/>
