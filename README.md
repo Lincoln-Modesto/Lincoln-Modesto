@@ -13,8 +13,8 @@ A partir daí, me apaixonei por tecnologia e programação, e venho estudando e 
 
 <div>
   <a src="https://github.com/Lincoln-Modesto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Modesto&count_private=true&theme=midnight-purple&include_all_commits&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Modesto&layout=compact&theme=midnight-purple"/>
+    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Modesto&count_private=true&theme=midnight-purple&include_all_commits&show_icons=true"/>
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Modesto&layout=compact&theme=midnight-purple"/>
   </a>
 </div>
 
