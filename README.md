@@ -1,7 +1,7 @@
 ## Olá 👋, sou o Lincoln<br>
 
 
-Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi o aplicativo móvel (Java + Android nativo) [Reescore Lajes](http://www.ifs.edu.br/ultimas-noticias/9094-aluno-desenvolve-software-para-melhorar-seguranca-de-escoras-de-lajes) registrado junto ao INPI, que é um software voltado a sanar problemas de dimensionamento e projeto das estruturas provisórias de escoramento de lajes maciças e treliçadas. O [aplicativo](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras) está disponível no Google Play para dispositivos Android.
+Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi o aplicativo móvel (Java + Android nativo) [Reescore Lajes](http://www.ifs.edu.br/ultimas-noticias/9094-aluno-desenvolve-software-para-melhorar-seguranca-de-escoras-de-lajes) registrado junto ao INPI, que é um software voltado a sanar problemas de dimensionamento e projeto das estruturas provisórias de escoramento de lajes maciças e treliçadas. O aplicativo está disponível no [Google Play](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras) para dispositivos Android.
 
 
 A partir daí, me apaixonei por tecnologia e programação, e venho estudando e fazendo pequenos projetos desde 2020. 
