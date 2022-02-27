@@ -5,7 +5,7 @@ Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi
 
 A partir daí, me apaixonei por tecnologia e programação, venho estudando e fazendo projetos desde então. 
 
-🚀 Atualmente trabalho como Dev Front-End e estou estudando Typescript, React JS e VueJs. 
+🚀 Atualmente trabalho como Dev Front-End e estou estudando Typescript, ReactJS e VueJs. 
 
 ##
 
