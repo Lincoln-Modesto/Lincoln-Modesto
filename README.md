@@ -1,13 +1,11 @@
 ## Olá 👋, sou o Lincoln<br>
 
 
-Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi o aplicativo móvel (Java + Android nativo) [Reescore Lajes](http://www.ifs.edu.br/ultimas-noticias/9094-aluno-desenvolve-software-para-melhorar-seguranca-de-escoras-de-lajes) registrado junto ao INPI, que é um software voltado a sanar problemas de dimensionamento e projeto das estruturas provisórias de escoramento de lajes maciças e treliçadas. O aplicativo está disponível no [Google Play](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras) para dispositivos Android.
+Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi um aplicativo móvel, o [Reescore Lajes](http://www.ifs.edu.br/ultimas-noticias/9094-aluno-desenvolve-software-para-melhorar-seguranca-de-escoras-de-lajes) registrado junto ao INPI, que é um software voltado a sanar problemas de dimensionamento e projeto das estruturas provisórias de escoramento de lajes maciças e treliçadas. O aplicativo está disponível no [Google Play](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras) para dispositivos Android.
 
+A partir daí, me apaixonei por tecnologia e programação, venho estudando e fazendo projetos desde então. 
 
-A partir daí, me apaixonei por tecnologia e programação, venho estudando e fazendo pequenos projetos desde 2020. 
-
-
-🚀 Atualmente estou estudando: JavaScript, React JS e React Native, mas também tenho me aventurado em desenvolver aplicações completas, com back-end em node js, e banco de dados com MongoDB e Postgres.
+🚀 Atualmente trabalho como Dev Front-End e estou estudando Typescript, React JS e VueJs. 
 
 ##
 
@@ -19,6 +17,8 @@ A partir daí, me apaixonei por tecnologia e programação, venho estudando e fa
 </div>
 
 ##
+
+Algumas das stacks as quais já trabalhei:
 
 <div style="display: inline_block"><br>
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
