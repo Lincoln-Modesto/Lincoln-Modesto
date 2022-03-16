@@ -1,4 +1,4 @@
-## Olá 👋, sou o Lincoln<br>
+## Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, sou o Lincoln<br>
 
 
 Sou graduado em Engenharia civil e durante a conclusão do meu curso, desenvolvi um aplicativo móvel, o [Reescore Lajes](http://www.ifs.edu.br/ultimas-noticias/9094-aluno-desenvolve-software-para-melhorar-seguranca-de-escoras-de-lajes) registrado junto ao INPI, que é um software voltado a sanar problemas de dimensionamento e projeto das estruturas provisórias de escoramento de lajes maciças e treliçadas. O aplicativo está disponível no [Google Play](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras) para dispositivos Android.
@@ -28,7 +28,9 @@ Algumas das stacks as quais já trabalhei:
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/>
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJs"/>
+  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJs"/>
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS"/>
+  <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS"/>
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img width="40" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
