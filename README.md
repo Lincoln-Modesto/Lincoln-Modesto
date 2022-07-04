@@ -6,7 +6,14 @@
  - ⚡ Sou engenheiro civil;
  - 📱  Publiquei esse app para o meu TCC - [Reescore Lajes](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras)
  
-  <br/>
+##
+
+<div style="display: flex">
+  <a src="https://github.com/Lincoln-Modesto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Modesto&count_private=true&theme=midnight-purple&include_all_commits&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Modesto&layout=compact&theme=midnight-purple"/>
+  </a>
+</div>
  
 ## Skills
 <div style="display: inline_block"><br>
