@@ -4,6 +4,7 @@
  - 🌱 Atualmente estou estudando Docker e aws;
  - 🚀 Estou sempre aprendendo alguma coisa;
  - ⚡ Sou engenheiro civil;
+ - 💻 Vue, React, React-native;
  - 📱  Publiquei esse app para o meu TCC - [Reescore Lajes](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras)
  
 ##
