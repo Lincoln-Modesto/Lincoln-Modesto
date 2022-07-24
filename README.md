@@ -4,7 +4,7 @@
  - 🌱 Atualmente estou estudando Nest Js;
  - 🚀 Estou sempre aprendendo alguma coisa;
  - ⚡ Sou engenheiro civil;
- - 💻 Vue, React, React-native;
+ - 💻 Vue, React, React-native, Nodejs;
  - 📱  Publiquei esse app para o meu TCC - [Reescore Lajes](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras)
  
 ##
