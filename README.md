@@ -1,7 +1,7 @@
 ## Olá, sou o Lincoln <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">  </br>
 
  - 👨‍💻 Front-end Developer;
- - 🌱 Atualmente estou estudando Nuxt;
+ - 🌱 Atualmente estou estudando Nest Js;
  - 🚀 Estou sempre aprendendo alguma coisa;
  - ⚡ Sou engenheiro civil;
  - 💻 Vue, React, React-native;
