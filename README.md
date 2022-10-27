@@ -1,10 +1,10 @@
 ## Olá, sou o Lincoln <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">  </br>
 
- - 👨‍💻 Full Stack Developer;
- - 🌱 Atualmente estou estudando Node js;
+ - 👨‍💻 Front-end Developer;
+ - 🌱 Atualmente estou estudando e trabalhando com Angular;
  - 🚀 Estou sempre aprendendo alguma coisa;
  - ⚡ Sou engenheiro civil;
- - 💻 Vue, Angular, React, React-native, Nodejs, MongoDB;
+ - 💻 Já atuei com tecnologias como Vue, Angular, React, React-native, Nodejs e MongoDB;
  - 📱  Publiquei esse app para o meu TCC - [Reescore Lajes](https://play.google.com/store/apps/details?id=com.reescorelajes.dimensionamentodeescoras)
  
 ##
