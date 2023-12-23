@@ -1,7 +1,7 @@
 ## Olá, sou o Lincoln <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">  </br>
 
  - 👨‍💻 Fullstack Developer;
- - 🌱 Atualmente estou estudando e trabalhando com Angular e .NET;
+ - 🌱 Atualmente estou estudando e trabalhando com React e .NET;
  - 🚀 Estou sempre aprendendo alguma coisa;
  - ⚡ Sou engenheiro civil;
  - 💻 Já atuei com tecnologias como Vue, Angular, React, React-native, Nodejs, .NET, JAVA, SQL e NoSQL;
