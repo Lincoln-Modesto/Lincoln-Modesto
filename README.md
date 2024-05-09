@@ -1,10 +1,10 @@
-## Olá, sou o Lincoln <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">  </br>
+## Hello! I'm Lincoln <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">  </br>
 
  - 👨‍💻 Software Engineer;
  - ⚡ Civil Engineer;
  - 🌱 Currently work with Angular;
  - 🚀 Always learning something new;
- - 💻 Already worked with Vue, Angular, React, React-native, Nodejs, .NET, JAVA, SQL e NoSQL;
+ - 💻 Already worked with Vue, Angular, React, React-native, Nodejs, .NET, JAVA, SQL e NoSQL.
  
 ##
 
