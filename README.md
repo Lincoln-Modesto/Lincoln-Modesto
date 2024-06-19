@@ -4,7 +4,7 @@
  - ⚡ Civil Engineer;
  - 🌱 Currently work with Angular;
  - 🚀 Always learning something new;
- - 💻 Already worked with Vue, Angular, React, React-native, Nodejs, .NET, JAVA, SQL e NoSQL.
+ - 💻 Already worked with Vue, Angular, React, React-native, Nodejs, .NET, AWS, GCP, SQL e NoSQL.
  
 ##
 
